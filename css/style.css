@@ -1,0 +1,42 @@
+main {
+  width: 100%;
+  height: 800px;
+}
+
+.immagine1 {
+background-image: url("../assets/img/pd1.jpg");
+width: 300px;
+height: 372px;
+position: relative;
+display: inline-block;
+}
+
+.sconto1 {
+  background: green;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.immagine2 {
+background-image: url("../assets/img/pd2.jpg");
+width: 300px;
+height: 372px;
+position: relative;
+display: inline-block;
+}
+
+.sconto2 {
+  background: red;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.immagine3 {
+background-image: url("../assets/img/pd3.jpg");
+width: 300px;
+height: 372px;
+position: relative;
+display: inline-block;
+}
